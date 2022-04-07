@@ -7,3 +7,4 @@ Random tests with HTML, CSS and Javascript.
 - Pricing Table.
 - Score Keeper.
 - First App.
+- Rest.
