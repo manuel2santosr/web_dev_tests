@@ -8,3 +8,4 @@ Random tests with HTML, CSS and Javascript.
 - Score Keeper.
 - First App.
 - Rest.
+- Fruit Stand.
